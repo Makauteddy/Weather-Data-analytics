@@ -1,5 +1,5 @@
 # Weather-Data-analytics
-his Python project performs various data analysis tasks on a weather dataset. Additionally, i moved the dataset  into a database to perform SQL queries.
+This Python project performs various data analysis tasks on a weather dataset. Additionally, i moved the dataset  into a database to perform SQL queries.
 
 ## Project Overview
 
